@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Super awesome project
-  link: github.com/zsaidov/react-AuthorQuiz
-  github: github.com/zsaidov
+  link: github.com/sproogen
+  github: sproogen/resume-theme
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
