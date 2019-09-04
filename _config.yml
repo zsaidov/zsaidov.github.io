@@ -9,20 +9,20 @@ email: saidov.zohid@gmail.com
 website: https://github.com/zsaidov
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: zsaidov
+github_username:  zsaidov
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+instagram_username: zohidsaidi
 linkedin_username: zsaidov
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: Zohid
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name’s Zohid and I’m a full-stack web developer. I have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
